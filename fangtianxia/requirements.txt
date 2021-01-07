@@ -109,7 +109,7 @@ llvmlite==0.20.0
 lml==0.0.2
 locket==0.2.0
 lockfile==0.12.2
-lxml==4.1.0
+lxml==4.6.2
 lzstring==1.0.4
 macropy3==1.1.0b2
 MarkupSafe==1.0
