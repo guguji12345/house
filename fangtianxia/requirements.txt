@@ -169,7 +169,7 @@ pyecharts-jupyter-installer==0.0.3
 pyecharts-snapshot==0.1.10
 PyExecJS==1.5.1
 pyflakes==1.6.0
-Pygments==2.2.0
+Pygments==2.7.4
 PyHamcrest==1.9.0
 pyinstall==0.1.4
 pylint==1.7.4
