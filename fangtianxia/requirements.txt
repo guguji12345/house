@@ -205,7 +205,7 @@ scikit-learn==0.19.1
 scipy==0.19.1
 Scrapy==1.5.2
 scrapy-redis==0.6.8
-scrapy-splash==0.7.2
+scrapy-splash==0.8.0
 scrapyrt==0.10
 seaborn==0.8
 selenium==3.141.0
